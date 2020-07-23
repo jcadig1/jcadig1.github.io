@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "Piezocone penetrometer measurements in coastal Louisiana wetlands"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
+permalink: /publication/Piezocone Penetrometer measurements in coastal Louisiana wetlands
+excerpt: 'This study provides an overview of using a modified piezocone penetrometer to rapidly evaluate marsh shear strength, porosity, and electrical conductivity over a range of ecological, geological, and hydrologic wetland conditions.'
+date: 2019-02-01
+venue: 'Ecological Engineering'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Jafari, N. H., Harris, B. D., Cadigan, J. A., and Chen, Q. (2019). "Piezocone penetrometer measurements in coastal Louisiana wetlands." Ecological Engineering, 127, 338-347.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+This study provides an overview of using a modified piezocone penetrometer to rapidly evaluate marsh shear strength, porosity, and electrical conductivity over a range of ecological, geological, and hydrologic wetland conditions.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](http://jcadig1.github.io/files/pzocone.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Jafari, N. H., Harris, B. D., Cadigan, J. A., and Chen, Q. (2019). "Piezocone penetrometer measurements in coastal Louisiana wetlands." Ecological Engineering, 127, 338-347.
