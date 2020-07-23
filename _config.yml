@@ -187,8 +187,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-
-
+  fieldwork:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults 
 defaults:
@@ -245,7 +246,17 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-
+  # _fieldwork
+  - scope:
+      path: ""
+      type: fieldwork
+    values:
+      layout: fieldwork
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
 # Sass/SCSS
 sass:
   sass_dir: _sass
