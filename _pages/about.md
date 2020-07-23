@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student studying offshore geotechnical engineering. 
+More to come....
 
 A data-driven personal website
 ======
