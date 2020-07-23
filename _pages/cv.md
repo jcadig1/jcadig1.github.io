@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.S. in Petroleum Engineering, Louisiana State University, 2011
+* B.S. in Petroleum Engineering, Louisiana State University, 2016
 * Ph.D in Civil Engineering, Louisiana State University, 2021 (expected)
 
 Work experience
