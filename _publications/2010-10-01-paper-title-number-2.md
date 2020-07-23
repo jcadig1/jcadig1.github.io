@@ -1,15 +1,12 @@
 ---
-title: "Paper Title Number 2"
+title: "Wetland shear strength with emphasis on the impact of nutrients, sediments, and sea level rise"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: /publication/Wetland shear strength with emphasis on the impact of nutrients, sediments, and sea level rise
+excerpt: 'This paper presents a comprehensive review of shear strength measurements in wetland soils, which can be used to make inferences of the influence of nutrients and sediments on wetland health.'
+date: 2019-11-30
+venue: 'Estuarine, Coastal, and Shelf Science'
+citation: 'Jafari, N. H., Harris, B. D., Cadigan, J. A., Day, J. W., Sasser, C. E., Kemp, G. P., Wigand, C., Freeman, A., Sharp, L. A., Pahl, J., Shaffer, G. P., Holm, G. O., and Lane, R. R. (2019). "Wetland shear strength with emphasis on the impact of nutrients, sediments, and sea level rise." Estuarine, Coastal and Shelf Science, 229, 106394.'
 ---
-This paper is about the number 2. The number 3 is left for future work.
+This paper presents a comprehensive review of shear strength measurements in wetland soils, which can be used to make inferences of the influence of nutrients and sediments on wetland health.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
-
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+[Download paper here](http://jcadig1.github.io/files/shearstrengthreview.pdf)
