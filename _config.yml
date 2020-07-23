@@ -192,7 +192,7 @@ collections:
 
 # Defaults
 defaults:
-_posts
+  # _posts
   - scope:
       path: ""
       type: posts
@@ -203,14 +203,14 @@ _posts
       comments: true
       share: true
       related: true
-   _pages
+  # _pages
   - scope:
       path: ""
       type: pages
     values:
       layout: single
       author_profile: true
-   _teaching
+  # _teaching
   - scope:
       path: ""
       type: teaching
@@ -219,7 +219,7 @@ _posts
       author_profile: true
       share: true
       comments: true
-   _publications
+  # _publications
   - scope:
       path: ""
       type: publications
@@ -228,7 +228,7 @@ _posts
       author_profile: true
       share: true
       comments: true
-   _portfolio
+  # _portfolio
   - scope:
       path: ""
       type: portfolio
@@ -237,7 +237,7 @@ _posts
       author_profile: true
       share: true
       comment: true
-   _talks
+  # _talks
   - scope:
       path: ""
       type: talks
